@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#919191</color>
+    <color name="red">#FF2727</color>
+
+    <!-- Paleta main -->
+    <color name="background_primary">#03071E</color>
+    <color name="background_secondary">#370617</color>
+    <color name="text_primary">#6A040F</color>
+    <color name="text_secondary">#9D0208</color>
+    <color name="button_primary">#D00000</color>
+    <color name="button_primary_pressed">#DC2F02</color>
+    <color name="accent_primary">#E85D04</color>
+    <color name="accent_secondary">#F48C06</color>
+    <color name="warning">#FAA307</color>
+    <color name="success">#FFBA08</color>
+
+</resources>
